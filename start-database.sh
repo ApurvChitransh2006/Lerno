@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+git branch -M main#!/usr/bin/env bash
 # Use this script to start a docker container for a local development database
 
 # TO RUN ON WINDOWS:
